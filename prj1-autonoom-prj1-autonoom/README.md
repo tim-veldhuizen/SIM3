@@ -1,5 +1,5 @@
-# prj1-autonoom
-Hello, welcome to the Project 1 GitHub repo of Loki ing.
+# SIM3
+Hello, welcome to the SIM3GitHub repo of Loki ing.
 
 We built a 6 sensor line following robot, the sixth sensor is positioned a little bit from the hart of the machine. This robot is specifically designed to drive a course made up of 0 - 135 degree turns a pause symbol made of two horizontal lines with a white space of 14mm. This robot will also stop at a stop symbol.
 This robot does not use encoders.
